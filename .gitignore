@@ -1,7 +1,21 @@
-/public/
-/resources/_gen/
+node_modules/
+package-lock.json
 
+# Hugo
+.hugo_build.lock
+/public
+resources/
+
+# vim temporary files
+*~
+*.sw?
+
+# system files
 .DS_Store
-node_modules
-dist
-tmp
+
+# IDE files
+.idea
+
+# VS Code
+/.vscode/**
+!/.vscode/cspell.json
