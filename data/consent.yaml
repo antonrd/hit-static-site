@@ -1,0 +1,11 @@
+items:
+  - title: Google Anaytics (required)
+    description: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on.
+    is_functional: true
+    is_required: true
+    script_file: gtag.js
+  - title: UserVoice
+    description: This code gives users the option to send feedback in a popup window that can be opened through a widget at the bottom-right corner of the pages.
+    is_functional: true
+    is_required: false
+    script_file: uservoice.js

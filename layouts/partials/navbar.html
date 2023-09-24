@@ -1,0 +1,75 @@
+{{ $cover := and
+  (.HasShortcode "blocks/cover")
+  (not .Site.Params.ui.navbar_translucent_over_cover_disable)
+-}}
+{{ $baseURL := urls.Parse $.Site.Params.Baseurl -}}
+
+<nav class="td-navbar navbar-dark js-navbar-scroll
+          {{- if $cover }} td-navbar-cover {{- end }}">
+<div class="container-fluid flex-column flex-md-row">
+<a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
+  {{- /**/ -}}
+  <span class="navbar-brand__logo navbar-logo">
+    {{- if ne .Site.Params.ui.navbar_logo false -}}
+      {{ with resources.Get "icons/logo.svg" -}}
+        {{ ( . | minify).Content | safeHTML -}}
+      {{ end -}}
+    {{ end -}}
+  </span>
+  {{- /**/ -}}
+  <img src="/images/hiredintech-logo.png" alt="HiredInTech Logo">
+  {{- /**/ -}}
+</a>
+<div class="td-navbar-nav-scroll ms-md-auto" id="main_navbar">
+  <ul class="navbar-nav">
+    {{ $p := . -}}
+    <li class="nav-item dropdown d-none d-lg-block">
+      {{ partial "courses-menu-selector.html" . -}}
+    </li>
+    {{ range .Site.Menus.main -}}
+    <li class="nav-item simple">
+      {{ $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) -}}
+      {{ $href := "" -}}
+      {{ with .Page -}}
+        {{ $active = or $active ( $.IsDescendant .) -}}
+        {{ $href = .RelPermalink -}}
+      {{ else -}}
+        {{ $href = .URL | relLangURL -}}
+      {{ end -}}
+      {{ $isExternal := ne $baseURL.Host (urls.Parse .URL).Host -}}
+      <a {{/**/ -}}
+        class="nav-link {{- if $active }} active {{- end }}" {{/**/ -}}
+        href="{{ $href }}"
+        {{- if $isExternal }} target="_blank" rel="noopener" {{- end -}}
+      >
+          {{- .Pre -}}
+          <span>{{ .Name }}</span>
+          {{- .Post -}}
+      </a>
+    </li>
+    {{ end -}}
+    {{ if .Site.Params.versions -}}
+    <li class="nav-item dropdown d-none d-lg-block">
+      {{ partial "navbar-version-selector.html" . -}}
+    </li>
+    {{ end -}}
+    {{ if (gt (len .Site.Home.Translations) 0) -}}
+    <li class="nav-item dropdown d-none d-lg-block">
+      {{ partial "navbar-lang-selector.html" . -}}
+    </li>
+    {{ end -}}
+  </ul>
+</div>
+<div class="d-none d-lg-block">
+  {{ partial "search-input.html" . }}
+</div>
+</div>
+
+<div class="alert-message">
+<b>INFO: We updated HiredInTech</b>. The old one is still available for a while
+<a href="https://good-old.hiredintech.com" target="_blank" rel="nofollow noopener noreferrer">here</a>.
+More about the migration in <a href="/site-migration" target="_blank" rel="nofollow noopener noreferrer">this blog post</a>.
+<span class="close-button" id="close-alert"><i class="fa-solid fa-x"></i></span>
+</div>
+
+</nav>

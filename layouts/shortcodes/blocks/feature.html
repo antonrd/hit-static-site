@@ -1,0 +1,20 @@
+{{ $icon := .Get "icon" | default "fa-lightbulb" -}}
+{{ $url_text := .Get "url_text" -}}
+<div class="col-lg-4 mb-5 mb-lg-0 course-box text-center">
+  <div class="course-container">
+  <a href="{{ .Get "url" }}">
+    <div class="mb-4 h1">
+      <i class="{{ if not (or (hasPrefix $icon "fas ") (hasPrefix $icon "fab ")) }}fas {{ end }}{{ $icon }}"></i>
+    </div>
+    <h4 class="h3 course-title">
+      {{- .Get "title" | markdownify -}}
+    </h4>
+  </a>
+  <div class="mb-0">
+  {{ .Inner }}
+  </div>
+  <div class="course-bottom">
+  {{ with .Get "url" }}<p class="go-to-course"><a href="{{ . }}">{{ with $url_text }}{{ $url_text }}{{ else }}Go to course <i class="fa-solid fa-arrow-right"></i>{{ end }}</a></p>{{ end }}
+  </div>
+  </div>
+</div>
