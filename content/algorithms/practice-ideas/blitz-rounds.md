@@ -2,6 +2,7 @@
 title: "Blitz rounds"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/87"]
 ---
 ### Topical Practice
 

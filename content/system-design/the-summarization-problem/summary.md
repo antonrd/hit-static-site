@@ -2,6 +2,7 @@
 title: "Summary"
 type: docs
 weight: 50
+aliases: ["/classrooms/system-design/lesson/105"]
 ---
 Given a quite vague initial problem statement we managed to design a system that should work well in production under the expected constraints. The system will probably have some flaws in its current form but the important thing is that it already is quite robust and able to scale. At the same time we’ve described it in enough details.
 

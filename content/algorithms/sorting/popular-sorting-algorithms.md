@@ -2,6 +2,7 @@
 title: "Popular sorting algorithms"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/41"]
 ---
 You are probably already familiar with different techniques for sorting elements. It is not impossible that sometimes at an interview you would just need to write code, which orders a set of elements by some value. For such cases it is always good to be able to quickly implement something from scratch. Probably the simplest and easiest to write sorting algorithms are "selection sort" and "bubble sort". Both algorithms have time complexity `O(N^2)`, where `N` is the number of elements to sort. We will not go in details about how these algorithms operate because there are plenty of excellent resources out there covering this. The Wikipedia article on sorting linked at the bottom of this lesson is a good start. It tells you about some other interesting algorithms as well.
 

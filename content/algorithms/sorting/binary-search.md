@@ -2,6 +2,7 @@
 title: "Binary search"
 type: docs
 weight: 30
+aliases: ["/classrooms/algorithm-design/lesson/42"]
 ---
 One very important benefit of having sorted elements is the ability to quickly search through them. If you have a sequence of sorted elements you can use binary search to find if it includes a given element or to find the proper place of a new element in the sorted sequence with time complexity `O(logN)`. For big enough sequences this is much better than the linear approach of searching through the whole sequence until you find the answer.
 

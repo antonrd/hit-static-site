@@ -2,6 +2,7 @@
 title: "Longest incresing subsequence"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/16"]
 ---
 ### Task Statement
 

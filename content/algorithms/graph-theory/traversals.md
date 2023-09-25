@@ -2,6 +2,7 @@
 title: "Traversals"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/47"]
 ---
 Graph traversals are a very popular set of problems in which some entity is represented by a graph and the nodes in this graph need to be traversed in some order. Sometimes one needs to find if there is a way to get from node `Vi` to another node `Vj` following the existing edges in the graph. Two popular algorithms for this are Depth-first search (DFS) and Breadth-first search (BFS). After learning and practicing the different representations of graphs these two algorithms are a must for people learning to code graph algorithms.
 

@@ -2,6 +2,7 @@
 title: "Low-level Issues"
 type: docs
 weight: 40
+aliases: ["/classrooms/system-design/lesson/104"]
 ---
 So far we’ve outlined the high-level design that should help us productionize the text summarization service. But this is not the end. We always advise to start with drafting the high-level design of your solution before going into the details of any separate part of it. You can read more about the motivation behind this advice in the previous sections of this course. However, after coming up with a high-level design, which our interviewer is happy with we will have to figure out some details about it.
 

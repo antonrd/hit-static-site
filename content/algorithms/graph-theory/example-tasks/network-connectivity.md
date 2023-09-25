@@ -2,6 +2,7 @@
 title: "Network connectivity"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/36"]
 ---
 ### Task Statement
 

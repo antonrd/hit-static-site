@@ -2,6 +2,7 @@
 title: "High-level Design"
 type: docs
 weight: 30
+aliases: ["/classrooms/system-design/lesson/103"]
 ---
 We will follow the advice we’ve given in this course and will try to scope out a high-level design proposal before going into more details.
 

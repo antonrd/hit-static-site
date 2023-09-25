@@ -2,6 +2,7 @@
 title: "Multiple dimensions"
 type: docs
 weight: 30
+aliases: ["/classrooms/algorithm-design/lesson/39"]
 ---
 So far we illustrated the basic idea of dynamic programming - that the answer for a given problem can be computed using the answers for smaller sub-problems. We also showed that there is no need to compute the answer for the same sub-problem more than once and that we can store the computed answer and reuse it.
 

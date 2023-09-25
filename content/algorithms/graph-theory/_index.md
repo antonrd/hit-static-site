@@ -3,6 +3,7 @@ title: "Graph Theory"
 type: docs
 weight: 80
 no_list: true
+aliases: ["/classrooms/algorithm-design/lesson/30"]
 ---
 In this section we will look into graph theory and mainly things that you need to know in order to recognise and solve such problems, both at interviews and at work.
 

@@ -2,6 +2,7 @@
 title: "Memory complexity"
 type: docs
 weight: 30
+aliases: ["/classrooms/algorithm-design/lesson/50"]
 ---
 To measure memory complexity of a solution you can use a lot of the things that we already described in this section. The difference is that here you need to measure the maximum amount of memory that is used by your solution at one point in time. Why is that important? Mainly because every time you run a piece of software on a given machine you will only have a limited amount of memory. Go over this amount and you are in trouble. The first most likely effect will be that the OS will start to swap memory to hard disk, which will make the execution much slower and practically useless.
 

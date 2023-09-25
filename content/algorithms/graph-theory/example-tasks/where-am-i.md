@@ -2,6 +2,7 @@
 title: "Where am I?"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/35"]
 ---
 ### Task Statement
 

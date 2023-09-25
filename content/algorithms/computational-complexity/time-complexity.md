@@ -2,6 +2,7 @@
 title: "Time complexity"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/49"]
 ---
 Let's look at some examples in order to get a better understanding of time complexity of an algorithm. Later we will also look at memory complexity as this is another limited resource that we have to deal with.
 

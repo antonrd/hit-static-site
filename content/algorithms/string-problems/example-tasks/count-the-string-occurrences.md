@@ -2,6 +2,7 @@
 title: "Count the string occurrences"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/28"]
 ---
 ### Task Statement
 

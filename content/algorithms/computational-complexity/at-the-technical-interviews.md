@@ -2,6 +2,7 @@
 title: "At the technical interviews"
 type: docs
 weight: 50
+aliases: ["/classrooms/algorithm-design/lesson/86"]
 ---
 Now that you have a better understanding of the theory behind time and memory complexity, let's talk about how to best apply what you've learned at your interview.
 

@@ -2,6 +2,7 @@
 title: "Summary"
 type: docs
 weight: 60
+aliases: ["/classrooms/system-design/lesson/71"]
 ---
 We started from a seemingly simple problem statement and went through a lot of things. And still we haven’t covered all the possible angles that one could use to look at the given task. But to do this we would need weeks or months rather than 30-40 minutes during an interview.
 

@@ -2,6 +2,7 @@
 title: "Step 2: Abstract design"
 type: docs
 weight: 20
+aliases: ["/classrooms/system-design/lesson/56"]
 ---
 Once you've scoped the system you're about to design, you should continue by outlining a high-level abstract design. The goal of this is to outline all the important components that your architecture will need.
 

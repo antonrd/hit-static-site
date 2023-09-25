@@ -2,6 +2,7 @@
 title: "Count the paths"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/17"]
 ---
 ### Task Statement
 

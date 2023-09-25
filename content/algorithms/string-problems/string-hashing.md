@@ -2,6 +2,7 @@
 title: "String hashing"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/43"]
 ---
 This is a technique often used when you need to use strings as keys pointing to a set of corresponding values. For example, if you are writing code, which analyses text and needs to record some data for each word found in the text. A good approach would be to compute a hash value for each found word. This hash value would be a number. Numbers make it easier to index parts of memory or disk. If you can quickly refer to a storage location given a string, you can quickly extract the data in this location. For example, when analysing text, when a new word is processed its hash can be used to find the already computed values for it, if such already exist. In many programming languages there are already implemented data structures giving you this functionality by using a hash table of some sort.
 

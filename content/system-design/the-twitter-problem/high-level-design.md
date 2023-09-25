@@ -2,6 +2,7 @@
 title: "High-level Design"
 type: docs
 weight: 30
+aliases: ["/classrooms/system-design/lesson/69"]
 ---
 It’s a good idea to start from the top and define the main parts of our application. Then, for the high-level design, we can discuss their subparts.
 

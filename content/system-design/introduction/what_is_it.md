@@ -3,6 +3,7 @@ title: "What are system design questions?"
 date: 2023-08-20T16:10:56+02:00
 type: docs
 weight: 10
+aliases: ["/classrooms/system-design/lesson/52"]
 ---
 In this section we'll talk about the questions which require the interviewee to design a high-level architecture for some sort of a software system. This can be a web facing service, a RESTful API, a peer-to-peer desktop app, and so on. The exact type of question will most likely vary depending on the specifics of the company you interview at.
 

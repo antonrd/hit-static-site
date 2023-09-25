@@ -2,6 +2,7 @@
 title: "Additional Considerations"
 type: docs
 weight: 50
+aliases: ["/classrooms/system-design/lesson/73"]
 ---
 ### Increased number of read requests
 

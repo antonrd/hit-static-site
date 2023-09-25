@@ -2,6 +2,7 @@
 title: "Step 1: Constraints and use cases"
 type: docs
 weight: 10
+aliases: ["/classrooms/system-design/lesson/55"]
 ---
 Just like algorithm design, system design questions will also most likely be weakly defined. Consider the question about the URL-shortening service ("Design a URL shortening service like bit.ly"). There are so many things that are unclear about it! Without knowing more, it will be impossible to design an appropriate solution. Actually, many candidates forget about this and start designing a solution immediately.
 

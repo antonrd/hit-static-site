@@ -3,6 +3,7 @@ title: "Mathematics"
 type: docs
 weight: 60
 no_list: true
+aliases: ["/classrooms/algorithm-design/lesson/22"]
 ---
 Mathematics is a very wide topic and there are many fields in it that could be covered. There are also plenty of different tasks that one could face that require math in one form or another. In this section we will try to outline some very popular ideas that may be helpful at tech interviews. Let's focus on topics and practice tasks that are likely to be used at the interviews. We will only briefly mention different problems and techniques, so that you can get a better sense of what's important.
 

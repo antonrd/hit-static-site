@@ -2,6 +2,7 @@
 title: "Low-level Issues"
 type: docs
 weight: 40
+aliases: ["/classrooms/system-design/lesson/70"]
 ---
 Let’s assume that we’ve shaped the main parts of our Twitter-like application. In a real-life interview situation this would have been more like a discussion with the interviewer where you talk and they interrupt you with questions and comments. It is ok to have to clarify things that did not become apparent to the interviewer. It is also normal to not get everything right from the first time. Be prepared to accept suggestions from the interviewer or to have your design challenged even if it is sound.
 

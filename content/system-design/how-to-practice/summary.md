@@ -2,6 +2,7 @@
 title: "Summary"
 type: docs
 weight: 40
+aliases: ["/classrooms/system-design/lesson/66"]
 ---
 In this section we discussed several strategies for practicing system design questions. By combining discussing solutions with friends or coworkers with reading about scalable real-world systems and doing mock interviews, you’d be able to develop strong system design chops.
 

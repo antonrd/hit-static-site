@@ -2,6 +2,7 @@
 title: "Solve with Friends"
 type: docs
 weight: 20
+aliases: ["/classrooms/system-design/lesson/64"]
 ---
 Look at the massive systems you use every day developed by the companies you are interviewing for. What systems did these companies have to design? Create a list of the fundamental system design questions that bubble up in your brain. Here are a few to get you started:
 

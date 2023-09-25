@@ -2,6 +2,7 @@
 title: "Trivial example"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/38"]
 ---
 Let's start with a very simple example to illustrate the above words. Think about the [Fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number). How do we compute the 100th such number: by taking the sum of the 98th and 99th. This can be considered a very simple example of breaking down a task into smaller tasks. In order to get the answer for the problem with size `N` we need to solve for the problems with sizes `N-1` and `N-2`. If we go down like that we will reach the trivial problems with sizes 1 and 2, which we know the answers for. They come from the very definition of Fibonacci numbers: `F(1) = 1` and `F(2) = 1`. In some cases it may be stated that the first two values are 0 and 1, which is not so important for our example.
 

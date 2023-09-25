@@ -3,6 +3,7 @@ title: "Computational Complexity"
 type: docs
 weight: 20
 no_list: true
+aliases: ["/classrooms/algorithm-design/lesson/48"]
 ---
 As mentioned earlier in the course, we will devote a section to computational complexity because this is a key thing to consider when designing almost any software solution - from a small program to big software systems. Let's begin with some informal explanations of what it is and why it is so important for your tech interviews.
 

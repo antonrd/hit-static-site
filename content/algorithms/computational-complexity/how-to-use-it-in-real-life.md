@@ -2,6 +2,7 @@
 title: "How to use it in real life?"
 type: docs
 weight: 40
+aliases: ["/classrooms/algorithm-design/lesson/51"]
 ---
 Hopefully by now you have built a good understanding of what computation complexity is about. You should be able to compute the time and memory complexity of most algorithmic solutions that you can face at a programming interview or at work.
 

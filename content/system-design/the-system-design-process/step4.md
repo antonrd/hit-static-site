@@ -2,6 +2,7 @@
 title: "Step 4: Scaling your abstract design"
 type: docs
 weight: 40
+aliases: ["/classrooms/system-design/lesson/58"]
 ---
 Once you're ready with your high-level design and have made sure that the interviewer is ok with it, you can dive into making it more detailed. Usually, this means making your system scale.
 

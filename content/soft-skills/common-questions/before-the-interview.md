@@ -2,6 +2,7 @@
 title: "Before the interview"
 type: docs
 weight: 20
+aliases: ["/classrooms/interview-strategies/lesson/93"]
 ---
 
 <div class="accordion" id="accordionExample" class="open">

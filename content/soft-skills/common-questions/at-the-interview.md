@@ -2,6 +2,7 @@
 title: "At the interview"
 type: docs
 weight: 30
+aliases: ["/classrooms/interview-strategies/lesson/94"]
 ---
 <div class="accordion" id="accordionExample" class="open">
   <div class="accordion-item">

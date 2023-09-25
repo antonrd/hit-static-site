@@ -5,7 +5,7 @@ weight: 1
 type: docs
 toc_root: true
 no_list: true
-aliases: ["classrooms/algorithm-design/lesson/31"]
+aliases: ["classrooms/algorithm-design/lesson/31","/courses/algorithm-design"]
 ---
 Welcome to the first lesson of this course offered by HiredInTech!
 

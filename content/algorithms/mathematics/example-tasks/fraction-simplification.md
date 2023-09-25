@@ -2,6 +2,7 @@
 title: "Fraction simplification"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/24"]
 ---
 ### Task Statement
 

@@ -2,6 +2,7 @@
 title: "Words with types"
 type: docs
 weight: 30
+aliases: ["/classrooms/algorithm-design/lesson/37"]
 ---
 ### Task Statement
 

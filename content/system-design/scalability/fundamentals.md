@@ -2,6 +2,7 @@
 title: "Fundamentals"
 type: docs
 weight: 10
+aliases: ["/classrooms/system-design/lesson/60"]
 ---
 Now that you've designed a solid abstract architecture, the next step is to take it to scale. If you've never built a large-scale system, this task may seem a little daunting.
 

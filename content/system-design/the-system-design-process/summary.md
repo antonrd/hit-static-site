@@ -2,6 +2,7 @@
 title: "Summary"
 type: docs
 weight: 50
+aliases: ["/classrooms/system-design/lesson/59"]
 ---
 A strong process is crucial to successfully solving system design questions. We broke it down into four steps:
 

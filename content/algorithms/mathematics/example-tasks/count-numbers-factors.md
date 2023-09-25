@@ -2,6 +2,7 @@
 title: "Count number's factors"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/25"]
 ---
 ### Task Statement
 

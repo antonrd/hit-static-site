@@ -3,6 +3,7 @@ title: "The Summarization Problem"
 type: docs
 weight: 60
 no_list: true
+aliases: ["/classrooms/system-design/lesson/101"]
 ---
 Here is another example problem from a system design interview. Like with [The Twitter Problem](/system-design/the-twitter-problem/intro-and-statement), we will start with a statement and then go through things like clarifying questions, designing the software architecture and resolve any issues that it may have.
 

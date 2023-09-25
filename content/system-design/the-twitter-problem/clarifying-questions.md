@@ -2,6 +2,7 @@
 title: "Clarifying Questions"
 type: docs
 weight: 20
+aliases: ["/classrooms/system-design/lesson/68"]
 ---
 The way it is given, this problem is very unclear. At first, it may seem that you don’t need more than this one sentence. After all, it describes what the system should be doing. But think about it - being the architect and developer you need to know much more in order to make the proper decisions. Let's start thinking about them and get some answers from our imaginary interviewer.
 

@@ -2,6 +2,7 @@
 title: "Testing your code"
 type: docs
 weight: 70
+aliases: ["/classrooms/algorithm-design/lesson/83"]
 ---
 Once your code is written, you don’t just lift your pen, say “I’m ready” and leave. A great next step is to verify it with several small test cases. And what would be even better is if you could tell your interviewer how you would extensively unit test your code beyond these sample tests.
 

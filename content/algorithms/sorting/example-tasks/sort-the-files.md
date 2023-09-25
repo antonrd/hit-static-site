@@ -2,6 +2,7 @@
 title: "Sort the files"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/20"]
 ---
 ### Task Statement
 You know how sometimes files with numbers in them get sorted lexicographically, which produces incorrect sequences of files. For example people use to have tons and tons of pictures and they are often named like that: `IMG123456.jpg`.

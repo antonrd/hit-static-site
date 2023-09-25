@@ -2,6 +2,7 @@
 title: "How to practice?"
 type: docs
 weight: 80
+aliases: ["/classrooms/algorithm-design/lesson/84"]
 ---
 At this point, you've mastered the theoretical underpinnings of the Algorithm Design Canvas. This is a great achievement and you're already ahead of the majority of applicants.
 

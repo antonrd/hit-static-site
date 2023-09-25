@@ -1,4 +1,4 @@
-baseURL = "https://hiredintech.com"
+# baseURL = "https://hiredintech.com"
 languageCode = 'en-us'
 title = 'HiredInTech'
 theme = 'docsy'

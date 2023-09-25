@@ -2,6 +2,7 @@
 title: "Representations in code"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/46"]
 ---
 In order to code graph algorithms one needs to know how to represent them in memory. There are some more widely used representations and each one has advantages and disadvantages compared to the others. Hence, it's good to know which one to use for a given problem. This may be a crucial decision for an interview problem.
 

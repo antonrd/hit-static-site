@@ -3,6 +3,7 @@ title: "Dynamic Programming"
 type: docs
 weight: 40
 no_list: true
+aliases: ["/classrooms/algorithm-design/lesson/11"]
 ---
 Dynamic programming is a very widely used technique. You may have even been applying it without knowing it. Its applications vary from very simple ones to more complicated cases. Nevertheless, many people wonder if they even need that for the interviews. Our experience shows that it is likely that you would get a problem requiring you to design a solution using dynamic programming. Overall, it is useful knowledge for many software engineers. Depending on what you work on it can come very handy sometimes.
 

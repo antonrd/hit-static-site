@@ -2,6 +2,7 @@
 title: "Pattern matching"
 type: docs
 weight: 30
+aliases: ["/classrooms/algorithm-design/lesson/44"]
 ---
 A very popular string problem is to find one, some or all occurrences of one string within another. Usually the string to search for is called a *pattern*. One example task would be given a text `T` (with length `Lt`) and a pattern `P` (with length `Lp`) to find all the starting positions of substrings in `T` that are equal to `P`. This could be useful in a number of text processing applications, like searching in text or mapping documents to keywords.
 

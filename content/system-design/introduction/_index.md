@@ -3,6 +3,7 @@ title: "Course Introduction"
 type: docs
 weight: 10
 no_list: true
+aliases: ["/classrooms/system-design/lesson/53"]
 ---
 Over time, we've identified two major challenges most candidates face when it comes to system design questions. Candidates either:
 

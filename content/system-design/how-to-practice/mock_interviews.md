@@ -2,6 +2,7 @@
 title: "Mock Interviews"
 type: docs
 weight: 30
+aliases: ["/classrooms/system-design/lesson/65"]
 ---
 While practicing in isolation with a friend is very useful up to a point, at some stage in your preparation process it’d be time to face the music. You need to get actual real-life interview experience under your belt.
 

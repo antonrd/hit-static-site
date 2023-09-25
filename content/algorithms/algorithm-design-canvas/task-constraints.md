@@ -2,6 +2,7 @@
 title: "Task Constraints"
 type: docs
 weight: 30
+aliases: ["/classrooms/algorithm-design/lesson/79"]
 ---
 You never want to solve a problem that’s ill-defined. That’s why the very first thing you should turn your head to when it comes to algorithm design problems is the problem’s constraints.
 

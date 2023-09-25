@@ -2,6 +2,7 @@
 title: "Step 3: Understanding bottlenecks"
 type: docs
 weight: 30
+aliases: ["/classrooms/system-design/lesson/57"]
 ---
 Most likely your high-level design will have one or more bottlenecks given the constraints of the problem. This is perfectly ok. You are not expected to design a system from the ground up, which immediately handles all the load in the world. It just needs to be scalable, in order for you to be able to improve it using some standard tools and techniques.
 

@@ -2,6 +2,7 @@
 title: "Related words"
 type: docs
 weight: 20
+aliases: ["/classrooms/algorithm-design/lesson/29"]
 ---
 ### Task Statement
 

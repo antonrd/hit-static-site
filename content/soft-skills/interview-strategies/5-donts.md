@@ -2,6 +2,7 @@
 title: "5 Don't-s"
 type: docs
 weight: 30
+aliases: ["/classrooms/interview-strategies/lesson/90"]
 ---
 Here’s a list of the top five mistakes candidates make during an interview (other than, of course, being unprepared - which you won’t be). Of course, not every candidate makes all five mistakes, but what we’ve observed is that everyone makes at least one or two of those.
 

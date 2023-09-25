@@ -2,6 +2,7 @@
 title: "Lists"
 type: docs
 weight: 10
+aliases: ["/classrooms/algorithm-design/lesson/75"]
 ---
 Very often as programmers we need to work with ordered sequences of items. This could involve many different operations over a sequence like traversing, searching, computing statistics and modifying. In this section we will focus on practice tasks, which will help you gain more experience in this field. Tech interviews are very likely to include some of the techniques that we will look at.
 

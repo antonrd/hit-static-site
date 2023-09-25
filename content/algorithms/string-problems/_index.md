@@ -3,6 +3,7 @@ title: "String Problems"
 type: docs
 weight: 70
 no_list: true
+aliases: ["/classrooms/algorithm-design/lesson/26"]
 ---
 Engineers need to work with strings all the time. Imagine how much information in the form of text is processed at companies like Google, Facebook, Microsoft. Such problems are popular at interviews and that’s why we have a separate section for them.
 

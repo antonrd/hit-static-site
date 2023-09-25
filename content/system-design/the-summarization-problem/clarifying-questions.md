@@ -2,6 +2,7 @@
 title: "Clarifying Questions"
 type: docs
 weight: 20
+aliases: ["/classrooms/system-design/lesson/102"]
 ---
 We already have some useful information like the expected number of requests per month and the expected latency of the responses. Given that the library could take up to 5 seconds to respond, looks like we can allow ourselves to have at most 5 more seconds of additional latency in order not to go over the 10 seconds limit. This means that it would not be feasible to have a system in which the requests are piled up and processed later. The processing must be done in real-time with no significant slow down.
 

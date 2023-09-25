@@ -2,6 +2,7 @@
 title: "More efficient pattern matching"
 type: docs
 weight: 40
+aliases: ["/classrooms/algorithm-design/lesson/45"]
 ---
 It was mentioned in a previous lesson that a hashing function could be used in string pattern matching due to its "sliding window" property. This is the idea of the *Rabin-Karp algorithm*. In the resources below we've included links to Wikipedia and TopCoder articles about it. It is relatively easy to implement and offers an improvement over the previous algorithm but it's worst-case running time is still `O(Lt * Lp)`.
 
