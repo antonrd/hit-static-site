@@ -23,9 +23,9 @@
 <div class="td-navbar-nav-scroll ms-md-auto" id="main_navbar">
   <ul class="navbar-nav">
     {{ $p := . -}}
-    <li class="nav-item dropdown d-none d-lg-block">
+    <!-- <li class="nav-item dropdown d-lg-block">
       {{ partial "courses-menu-selector.html" . -}}
-    </li>
+    </li> -->
     {{ range .Site.Menus.main -}}
     <li class="nav-item simple">
       {{ $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) -}}

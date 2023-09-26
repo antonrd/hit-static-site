@@ -195,12 +195,24 @@ enable = false
 #  desc = "Development takes place here!"
 
 [[menu.main]]
-    name = "About"
+    name = "System Design"
     weight = 10
+    url = "/system-design"
+[[menu.main]]
+    name = "Algorithms"
+    weight = 20
+    url = "/algorithms"
+[[menu.main]]
+    name = "Soft Skills"
+    weight = 30
+    url = "/soft-skills"
+[[menu.main]]
+    name = "About"
+    weight = 40
     url = "/about"
 [[menu.main]]
     name = "Blog"
-    weight = 20
+    weight = 50
     url = "https://medium.com/hiredintech"
 
 
