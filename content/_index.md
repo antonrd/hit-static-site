@@ -10,7 +10,7 @@ title: HiredInTech
     <div class="line">Gain confidence and <strong>excel at your tech interviews</strong>.</div>
   </div>
   <div class="col-md-5">
-    <img class="img-responsive hero" src="https://www.hiredintech.com/img/site_shot_new.png"></img>
+    <img class="img-fluid hero" src="https://www.hiredintech.com/img/site_shot_new.png"></img>
   </div>
 {{% /blocks/top-section %}}
 
