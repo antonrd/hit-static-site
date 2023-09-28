@@ -5,7 +5,7 @@ weight: 10
 type: docs
 toc_root: true
 no_list: true
-aliases: ["/courses/system-design"]
+aliases: ["/courses/system-design", "/system-design/system-design-intro/"]
 ---
 Tech interviewers will often ask you to design on the whiteboard a complicated software system in 15 minutes. How is that even possible? Sometimes you would get asked to design a major feature from a system like Twitter or Facebook from scratch, for example. But these systems were built over a long period of time by big teams of engineers, you would say.
 

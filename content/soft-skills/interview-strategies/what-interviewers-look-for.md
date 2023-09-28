@@ -2,7 +2,7 @@
 title: "What interviews look for"
 type: docs
 weight: 40
-aliases: ["/classrooms/interview-strategies/lesson/91"]
+aliases: ["/classrooms/interview-strategies/lesson/91", "/interview-strategies/what-interviewers-are-looking-for"]
 ---
 This section reflects our philosophy for hiring people. It shows the way we as interviewers think, so that you can put yourself in our shoes and understand where we’re coming from. We know for a fact that all smart companies in the tech space think and act similarly. As you may expect, different companies focus on different things, but ultimately they all pay attention to the same basic set of characteristics. We will look at what they are below.
 

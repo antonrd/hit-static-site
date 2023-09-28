@@ -2,7 +2,7 @@
 title: "Idea generation"
 type: docs
 weight: 40
-aliases: ["/classrooms/algorithm-design/lesson/80"]
+aliases: ["/classrooms/algorithm-design/lesson/80", "/algorithm-design/idea-generation"]
 ---
 One of the goals of this course is to teach you how to solve new problems. This will be the topic of the current section. We believe that it is much better to learn how to design solutions instead of trying to cover all interview questions that exist. There are a few reasons for that.
 

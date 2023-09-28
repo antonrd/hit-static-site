@@ -2,7 +2,7 @@
 title: "What is the canvas?"
 type: docs
 weight: 20
-aliases: ["/classrooms/algorithm-design/lesson/78"]
+aliases: ["/classrooms/algorithm-design/lesson/78", "/algorithm-design/the-algorithm-design-canvas"]
 ---
 The Algorithm Design Canvas captures our process for tackling algorithm design problems.
 

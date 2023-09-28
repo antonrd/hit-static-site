@@ -2,7 +2,7 @@
 title: "Wrap-up"
 type: docs
 weight: 30
-aliases: ["/classrooms/system-design/lesson/62"]
+aliases: ["/classrooms/system-design/lesson/62", "/system-design/final-thoughts"]
 ---
 Alright, at this point you already have solid theoretical and practical understanding of system design. In this section, we'll wrap things up and put them in the context of technical interviews.
 

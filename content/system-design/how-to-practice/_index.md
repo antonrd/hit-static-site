@@ -3,7 +3,7 @@ title: "How to Practice?"
 type: docs
 weight: 40
 no_list: true
-aliases: ["/classrooms/system-design/lesson/63"]
+aliases: ["/classrooms/system-design/lesson/63", "/system-design/practicing-system-design-questions"]
 ---
 Practicing system design questions is more difficult than practicing algorithm design questions, period. For algorithm design there are online judges like <a href="https://leetcode.com/" target="_blank" rel="nofollow noopener noreferrer">LeetCode</a> that contain problem banks with sample solutions and automated graders that can tell you exactly how good your solution is. This is simply priceless. There is no such thing for system design.
 

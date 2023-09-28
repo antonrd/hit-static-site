@@ -2,7 +2,7 @@
 title: "Examples"
 type: docs
 weight: 20
-aliases: ["/classrooms/system-design/lesson/61"]
+aliases: ["/classrooms/system-design/lesson/61", "/system-design/sample-architectures"]
 ---
 The awesome thing about scalability is that it's all around us. If you want to work on an exciting and successful product or service, by definition it's going to have to operate at scale.
 

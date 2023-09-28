@@ -2,7 +2,7 @@
 title: "5 Do-s"
 type: docs
 weight: 20
-aliases: ["/classrooms/interview-strategies/lesson/89"]
+aliases: ["/classrooms/interview-strategies/lesson/89", "/interview-strategies/5-do-s"]
 ---
 ### Tip 1: Diligently follow a process
 

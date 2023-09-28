@@ -3,6 +3,7 @@ title: "Data Structures"
 type: docs
 weight: 30
 no_list: true
+aliases: ["/algorithm-design/learn-algorithms", "/learn-algorithms"]
 ---
 Data structures play a major role in many algoritmic tasks. This is also true for coding interviews because very often you will need to be able to use one or more data structures to build a correct and efficient solution. If you are confident in using these data structures this will help you tremendouly at your interviews. Some of the most freqeuently used ones are:
 

@@ -2,7 +2,7 @@
 title: "Complexity"
 type: docs
 weight: 50
-aliases: ["/classrooms/algorithm-design/lesson/81"]
+aliases: ["/classrooms/algorithm-design/lesson/81", "/algorithm-design/time-and-memory-complexity"]
 ---
 For every idea you have at an interview, it's super important to be able to evaluate its efficiency. Efficiency is measured by computing the underlying algorithm's time and memory complexity.
 

@@ -2,7 +2,7 @@
 title: "After the interview"
 type: docs
 weight: 40
-aliases: ["/classrooms/interview-strategies/lesson/95"]
+aliases: ["/classrooms/interview-strategies/lesson/95", "/common-questions/after-the-interview"]
 ---
 
 <div class="accordion" id="accordionExample" class="open">

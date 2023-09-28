@@ -3,7 +3,7 @@ title: "Algorithm Design Canvas"
 type: docs
 weight: 10
 no_list: true
-aliases: ["/classrooms/algorithm-design/lesson/77"]
+aliases: ["/classrooms/algorithm-design/lesson/77", "/algorithm-design"]
 ---
 Algorithm design questions are among the most common kind of questions given at interviews, and no doubt the ones people struggle with the most.
 

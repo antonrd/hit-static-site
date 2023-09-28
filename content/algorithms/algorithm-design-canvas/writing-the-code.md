@@ -2,7 +2,7 @@
 title: "Writing the code"
 type: docs
 weight: 60
-aliases: ["/classrooms/algorithm-design/lesson/82"]
+aliases: ["/classrooms/algorithm-design/lesson/82", "/algorithm-design/writing-code"]
 ---
 At this point, you’ve already nailed the constraints of a problem, iterated on a few ideas, evaluated their complexities and eventually picked the one you’re going to implement. This is a great place to be!
 
