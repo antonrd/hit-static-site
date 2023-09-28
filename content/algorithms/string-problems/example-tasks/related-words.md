@@ -121,7 +121,7 @@ end
 
 ### Resources
 
-- Wikipedia on [stemming](https://en.wikipedia.org/wiki/Stemming)
-- A lesson on [stemming and lemmatizaion](http://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
-- Wikipedia on [stop words](https://en.wikipedia.org/wiki/Stop_words)
-- Another short lesson from Stanford on [stop words](http://nlp.stanford.edu/IR-book/html/htmledition/dropping-common-terms-stop-words-1.html)
+- Wikipedia on <a href="https://en.wikipedia.org/wiki/Stemming" target="_blank" rel="noopener nofollow">stemming</a>
+- A lesson on <a href="http://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html" target="_blank" rel="noopener nofollow">stemming and lemmatizaion</a>
+- Wikipedia on <a href="https://en.wikipedia.org/wiki/Stop_words" target="_blank" rel="noopened nofollow">stop words</a>
+- Another short lesson from Stanford on <a href="http://nlp.stanford.edu/IR-book/html/htmledition/dropping-common-terms-stop-words-1.html" target="_blank" rel="noopened nofollow">stop words</a>

@@ -9,7 +9,7 @@ The Algorithm Design Canvas captures our process for tackling algorithm design p
 It is a convenient way to represent algorithmic thinking. Every algorithmic problem, big or small, easy or hard, should eventually end up as a completed canvas.
 
 ### The 5 areas of the Canvas
-<a href="https://hiredintech.com/the-algorithm-design-canvas.pdf" target="_blank" ><img alt="" src="https://hiredintech.com/the-algorithm-design-canvas.png" style="width: 80%;" /></a>
+<a href="/files/the-algorithm-design-canvas.pdf" target="_blank" ><img alt="" src="/images/the-algorithm-design-canvas.png" style="width: 80%;" /></a>
 
 The Canvas contains 5 major areas: [Constraints](/algorithms/algorithm-design-canvas/task-constraints/), [Ideas](/algorithms/algorithm-design-canvas/idea-generation/), [Complexities](/algorithms/algorithm-design-canvas/complexity/), [Code](/algorithms/algorithm-design-canvas/writing-the-code/), and [Tests](/algorithms/algorithm-design-canvas/testing-your-code/). Taken together, they capture everything you need to worry about when it comes to algorithm design problems. In further sections, we’re going to cover what each area represents, as well as many tips and tricks about filling them in. We’ll also work through some examples that let you see the Canvas in action.
 
@@ -51,7 +51,7 @@ By diligently following this process both during your preparation and at the int
 
 The best thing to do at this point is to print a bunch of copies of the Canvas: they’ll come in handy as you prepare for your technical interview.
 
-[Print the Algorithm Design Canvas](https://hiredintech.com/the-algorithm-design-canvas.pdf)
+[Print the Algorithm Design Canvas](/files/the-algorithm-design-canvas.pdf)
 
 We hope you find the Canvas as indispensable as we’ve found it over the years. Use it wisely, and use it often!
 

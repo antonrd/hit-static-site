@@ -22,7 +22,7 @@ If you're using an online judge portal you could take a few problems from differ
 
 To get you started, we've assembled for you two blitz rounds with five TopCoder problems each. You can use the Arena for submitting your solutions as you did for previous sections.
 
-In addition to that there are two more optional blitz rounds with problems from the book [“Cracking the Coding Interview: Fifth Edition”](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_sp-atf_title_1_1?ie=UTF8&qid=1387640913&sr=8-1&keywords=cracking+the+coding+interview). For them you can use a printed copy of the [Canvas](/the-algorithm-design-canvas.pdf), a sheet of paper or a whiteboard. Again give yourself no more than 30 minutes per question.
+In addition to that there are two more optional blitz rounds with problems from the book <a href="http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_sp-atf_title_1_1?ie=UTF8&qid=1387640913&sr=8-1&keywords=cracking+the+coding+interview" target="_blank" rel="noopened nofollow">“Cracking the Coding Interview: Fifth Edition”</a>. For them you can use a printed copy of the [Canvas](/files/the-algorithm-design-canvas.pdf), a sheet of paper or a whiteboard. Again give yourself no more than 30 minutes per question.
 
 <h4>TopCoder Blitz Round 1</h4>
 <ul>

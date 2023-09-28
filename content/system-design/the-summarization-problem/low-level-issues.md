@@ -50,7 +50,7 @@ With the load balancer and the ability to spin up more instances of the website 
 In the meantime, we can tune our load balancer to limit excessive traffic to the website’s backend, if this occurs. This way we will make sure that the queue is not overloaded with enqueuing requests. Rather the website and the mobile app will start indicating to its customers that the service is currently overloaded and that they should try later. This is probably the better option than accepting text articles and then failing to summarize them. Here is a more detailed diagram of the design so far.
 
 <div class="text-center">
-<img src="https://www.hiredintech.com/lecture_materials/text_summarization_low_level_diagram_1.png"></img>
+<img src="/images/text_summarization_low_level_diagram_1.png"></img>
 </div>
 
 If you are curious to learn more about message queues, here are articles that we find useful:
@@ -73,5 +73,5 @@ Once the results are in the database our front-end clients could use some mechan
 To finalize all that, here is the diagram with all the moving parts of our design. It should be able to scale well for the expected load and to allow to handle even more load. It should also be robust enough to let us deal with unexpected problems. As it usually is with system design interviews, it’s most likely possible to find flaws in this design. After all, we are supposed to come up with it within the matter of 30-40 minutes. The important thing is that it gives a solid base for a system that should work well in production and is detailed enough.
 
 <div class="text-center">
-<img src="https://www.hiredintech.com/lecture_materials/text_summarization_low_level_diagram_2.png"></img>
+<img src="/images/text_summarization_low_level_diagram_2.png"></img>
 </div>

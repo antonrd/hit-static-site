@@ -23,7 +23,7 @@ In it you will find a few lessons and links to very useful resources that will g
 
 We’ve also compiled the Complexity Handout, which includes the complexities of many of the best-known algorithms. Like with all handouts, feel free to print it out and reference it. However, keep in mind that there’s zero value in you just memorizing these. Instead, read the theoretical articles and make sure you can come up with these complexities yourself.
 
-**Download the [Complexity Handout (PDF)](https://hiredintech.com/the-common-comlexities-handout.pdf).**
+**Download the [Complexity Handout (PDF)](/files/the-common-comlexities-handout.pdf).**
 
 ### Example
 

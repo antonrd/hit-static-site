@@ -20,7 +20,7 @@ The Algorithm Design Canvas helps you collect the needed information at an inter
 
 Filling in the Constraints box is nothing more than asking the interviewer the right questions. Every problem’s different, but to get you started we’ve compiled a pretty extensive list of common things you should keep an eye on. All of them are included in the Common Constraints Handout. Feel free to download it and print it out: It will come in handy!
 
-**Get the [Common Constraints Handout (PDF)](https://hiredintech.com/the-common-constraints-handout.pdf)**
+**Get the [Common Constraints Handout (PDF)](/files/the-common-constraints-handout.pdf)**
 
 The handout above will help you get a good idea of what is important in most interview problems. In addition to that, you will have to practice with real problems to gain experience. For this you will be able to use the problems we recommend further in the course.
 

@@ -58,7 +58,7 @@ In summary, if you get a feeling that a data structure could be the solution to 
 
 This is a simple idea and could help if nothing else helps. Since you’ve been practicing hard for your interviews you surely came across many different problems. If you see a problem and cannot think of a solution, try to remember another problem, which looks like it. If there is such, think if its solution can somehow be adjusted to work for the problem at hand. This can sometimes mislead you but many problems are related, so it could also get you out of the situation.
 
-Read carefully these strategies and try to apply them to the problems you face. In this course there are many recommended problems and you can do that with all of them. The [Algorithm Design Canvas](https://hiredintech.com/the-algorithm-design-canvas.pdf) will help you write down the ideas that come to you.
+Read carefully these strategies and try to apply them to the problems you face. In this course there are many recommended problems and you can do that with all of them. The [Algorithm Design Canvas](/files/the-algorithm-design-canvas.pdf) will help you write down the ideas that come to you.
 
 TopCoder tutorials also provide a useful resource on this topic, which you may find worth reading: <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/" target="_blank" rel="noopener noreferrer">How to Find a Solution</a>.
 

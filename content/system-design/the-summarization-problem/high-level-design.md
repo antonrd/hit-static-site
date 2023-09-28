@@ -33,7 +33,7 @@ With this in mind it’s probably a good idea to use either a RDBMS or a NoSql s
 Let’s try to draw a diagram of the design outlined so far:
 
 <div class="text-center">
-<img src="https://www.hiredintech.com/lecture_materials/text_summarization_high_level_diagram_v2.png"></img>
+<img src="/images/text_summarization_high_level_diagram_v2.png"></img>
 </div>
 
 It shows the main components of the design and the sequence of actions that are needed to handle one request. There are many important details mainly related to scalability that are not described in this diagram and we will discuss them next. However, this is a good start no matter how simple it looks.
