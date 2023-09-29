@@ -2,10 +2,7 @@
 title: "Cookie Policy"
 type: info
 ---
-
 Cookie Policy
-
-Last Updated: 2023-09-15
 
 1. Introduction
 
@@ -48,3 +45,5 @@ We may update this Cookie Policy to reflect changes in our cookie practices or f
 8. Contact Us
 
 If you have any questions, concerns, or requests regarding this Cookie Policy, please contact us at team@hiredintech.com.
+
+Last Updated: 2023-09-15

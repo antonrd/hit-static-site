@@ -2,8 +2,6 @@
 title: "Privacy Policy"
 type: info
 ---
-Effective Date: 19 September 2023
-
 Thank you for visiting www.HiredInTech.com ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect the information we gather from visitors to our website. By accessing or using our website, you consent to the practices described in this Privacy Policy.
 
 1. Information We Collect
