@@ -148,15 +148,6 @@
         document.getElementById('consent-notice').style.display = 'block';
     }
 
-    if(!readCookie('site-migration-alert')) {
-        console.log('no cookie');
-        document.querySelector('.alert-message').style.display = 'block';
-    }
-    document.getElementById("close-alert").addEventListener("click",function() {
-        createCookie('site-migration-alert','1',90);
-        document.querySelector('.alert-message').style.display = 'none';
-    });
-
     var elements = document.querySelectorAll('.manage-consent');
     elements.forEach(function(el) {
         el.addEventListener("click",function() {

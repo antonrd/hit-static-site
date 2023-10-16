@@ -16,8 +16,6 @@ In this new website, you still have access to all the content that is available 
 
 Please let us know if you notice that something is missing or broken.
 
-The good-old website will still be available for a while under <a href="https://good-old.hiredintech.com" target="_blank">good-old.hiredintech.com</a>.
-
 #### Quizzes and practice tasks
 
 The old portal contained a few quizzes and practice tasks that could be graded by our servers. We estimated that the benefits of the quizzes were not so big and will still look for an alternative solution that could work in the new website. The practice tasks are still available in the lessons on the new website. There are also solutions provided for them. It is just not possible to submit source code solutions for them. We believe that nowadays website like LeetCode offer a much richer environment for practicing on such problems. They already have categories of problems and the ability to submit solutions in various programming languages.

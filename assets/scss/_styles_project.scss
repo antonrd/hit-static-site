@@ -36,46 +36,44 @@
   margin-right: 30px;
 }
 
-// section.top-section {
-  .alert-message {
-    display: none;
-    position: absolute; /* Position the child element relative to the parent */
-    left: 50%;
-    transform: translate(-50%, 0%);
-    top: 100px; /* Set the top position */
-    z-index: 1000;
-    // left: 100px; /* Set the left position */
-    width: 50%; /* Set the width of the child element */
-    // height: 25px; /* Set the height of the child element */
-    background-color: #FFBF00; /* Add a background color for visibility */
-    // padding: 10px;
-    border-radius: 10px;
+.alert-message {
+  display: none;
+  position: absolute; /* Position the child element relative to the parent */
+  left: 50%;
+  transform: translate(-50%, 0%);
+  top: 100px; /* Set the top position */
+  z-index: 1000;
+  // left: 100px; /* Set the left position */
+  width: 50%; /* Set the width of the child element */
+  // height: 25px; /* Set the height of the child element */
+  background-color: #FFBF00; /* Add a background color for visibility */
+  // padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+
+  .close-button {
+    position: absolute;
+    top: 2px; /* Adjust the top position as needed */
+    right: 10px; /* Adjust the right position as needed */
+    width: 20px;
+    height: 20px;
+    background-color: #FFF5EE; /* Style the button as desired */
+    border-radius: 50%; /* Make it a circle */
+    cursor: pointer; /* Change cursor to a pointer to indicate it's clickable */
     text-align: center;
-    padding-left: 25px;
-    padding-right: 25px;
-
-    .close-button {
-      position: absolute;
-      top: 2px; /* Adjust the top position as needed */
-      right: 10px; /* Adjust the right position as needed */
-      width: 20px;
-      height: 20px;
-      background-color: #FFF5EE; /* Style the button as desired */
-      border-radius: 50%; /* Make it a circle */
-      cursor: pointer; /* Change cursor to a pointer to indicate it's clickable */
-      text-align: center;
-      line-height: 20px;
-      color: #FA8072; /* Style the X color */
-      text-decoration: none; /* Remove underlines, if any */
-      font-weight: bold;
-    }
-
-    .close-button:hover {
-      background-color: #FA8072; /* Change background color on hover */
-      color: #FFF5EE; /* Change text color on hover */
-    }
+    line-height: 20px;
+    color: #FA8072; /* Style the X color */
+    text-decoration: none; /* Remove underlines, if any */
+    font-weight: bold;
   }
-// }
+
+  .close-button:hover {
+    background-color: #FA8072; /* Change background color on hover */
+    color: #FFF5EE; /* Change text color on hover */
+  }
+}
 
 .footer-links {
   text-align: left;
